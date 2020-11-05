@@ -1,0 +1,11 @@
+com/example/whatsappbot/controller/Base64Help.java
+ com.example.whatsappbot.controller.Base64Help
+com/example/whatsappbot/controller/jsonserializables.java
+ com.example.whatsappbot.controller.Message
+ com.example.whatsappbot.controller.RequestWebhook
+com/example/whatsappbot/WhatsappbotApplication.java
+ com.example.whatsappbot.WhatsappbotApplication
+com/example/whatsappbot/controller/ApiWA.java
+ com.example.whatsappbot.controller.ApiWA
+com/example/whatsappbot/controller/MessageController.java
+ com.example.whatsappbot.controller.MessageController
